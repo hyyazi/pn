@@ -1,0 +1,8 @@
+base：基础的代码 、请求的代码
+config:配置文件
+data：测试数据
+log:日志文件
+report：测试报告
+test：测试用例
+utils:测试工具 pyaml
+common：公共方法

@@ -1,0 +1,13 @@
+#用户登录
+url: https://qzan-admin.qulv.com/api/login
+method: post
+headers:
+  Content-Type: application/json
+  CSDKVERSION: "1.0"
+  Referer: https://qzan-admin.qulv.com/login
+  ser-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+data:
+  userName: hy
+  password: 123
+expect: 200
+
